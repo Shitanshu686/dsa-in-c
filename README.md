@@ -7,15 +7,11 @@
 - 🌱 Currently learning Advanced Java, JDBC, Servlets, JSP, and SQL
 - 🚀 Building projects and improving problem-solving skills
 
-## Tech Stack
-- C
-- Java
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git
-- GitHub
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,git,github,vscode" />
+</p>
 
 ## Current Goals
 - Solve DSA problems consistently
